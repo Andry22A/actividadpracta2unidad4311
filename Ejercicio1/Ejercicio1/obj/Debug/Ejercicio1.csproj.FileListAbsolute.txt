@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe.config

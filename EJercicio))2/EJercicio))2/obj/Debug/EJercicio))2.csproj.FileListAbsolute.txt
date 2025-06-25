@@ -1,0 +1,11 @@
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\bin\Debug\EJercicio))2.exe.config
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\bin\Debug\EJercicio))2.exe
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\bin\Debug\EJercicio))2.pdb
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio))2.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio__2.Form1.resources
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio__2.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio))2.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio))2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio))2.exe
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio))2.pdb
+C:\Users\PC\Documents\GitHub\actividadpracta2unidad4311\EJercicio))2\EJercicio))2\obj\Debug\EJercicio))2.exe.config
